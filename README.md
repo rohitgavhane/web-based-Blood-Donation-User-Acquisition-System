@@ -1,2 +1,1 @@
-# web-based-Blood-Donation-User-Acquisition-System
-This is blood donation website which is takes the users data nd also people can register for blood donation.
+It is a blood donation user data acquisition website where-in we have created a data submission form for users to submit their data which later on admin will use to contact them for any blood donation campaigns matching their requirements. We've used php for backend and have created our database in phpmyadmin locally. 
